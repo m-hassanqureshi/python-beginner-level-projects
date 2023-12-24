@@ -12,7 +12,7 @@ Email Validation System is a basic email validation script implemented in Python
 
 **Author: Muhammad Hassan Qureshi**
 
-**Code Link :** [Email Verification System](https://github.com/m-hassanqureshi/python-beginner-level-projects/blob/main/email-validation-system.py)
+**Code Link :** [Email Validation System](https://github.com/m-hassanqureshi/python-beginner-level-projects/blob/main/email-validation-system.py)
 ### Features
 
 - Length requirement check
