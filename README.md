@@ -11,7 +11,7 @@ This repository contains my python beginner level projects from basic to slightl
 Email Validation System is a basic email validation script implemented in Python without using external modules. The script checks various criteria to determine the validity of an email address. If the provided email is invalid, it returns a message indicating what aspects need correction for a valid email.
 
 **Author: Muhammad Hassan Qureshi**
-
+**Code Link :** [Email Verification System](https://github.com/m-hassanqureshi/python-beginner-level-projects/blob/main/email-validation-system.py)
 ### Features
 
 - Length requirement check
