@@ -56,7 +56,7 @@ result = email_validation_system(email_input)
 
 # Displaying the results
 print(result)
-
+```
 
 # Project No.2: Student Marks Analyzer
 
@@ -116,5 +116,5 @@ from student_marks_analyzer import main
 
 # Run the program
 main()
-
+```
 
