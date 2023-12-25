@@ -46,7 +46,7 @@ The `email_validation_system` function in the script performs a series of checks
 ### Example
 
 ```python
-import email_validation_system
+from email_validation_system.py import email_validation_system
 
 # Getting user input
 email_input = input("Enter your Email: ")
