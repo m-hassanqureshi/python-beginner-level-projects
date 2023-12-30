@@ -138,4 +138,40 @@ In this part of the project, a basic QR code is generated with the URL "https://
 ### 2. Advance QR Code Creation
 The project also explores advanced QR code generation with specific options. Here, the script configures the QR code to have a version of 1, use H error correction, set a box size of 10, and include a border of size 1. The data for the QR code remains the same as in the simple example ("https://github.com/m-hassanqureshi"). The resulting QR code is generated, and additional styling is applied, such as a green fill color and a white background. The final image is saved as "advanced_qr.png".
 
+# Project No.4 : Password Generator
+
+This Python script generates a random password using a combination of uppercase and lowercase letters, digits, and special characters.
+
+## Overview
+
+The Random Password Generator is a simple Python script designed to create secure and random passwords. It utilizes a mix of uppercase and lowercase letters, digits, and special characters to enhance the strength of the generated password.
+
+Code Link : [Password Generator](https://github.com/m-hassanqureshi/python-beginner-level-projects/blob/main/password-generator.py)
+
+## Usage
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/your-repository.git
+   cd your-repository
+  ```
+      python generate_password.py
+   ```
+
+2.Enter the Desired Length:
+
+- When prompted, enter the desired length for the generated password.
+
+3.View the Generated Password:
+
+- The script will generate a random password based on your specified length.
+The generated password will be displayed in the console.
+
+4.Customization (Optional):
+
+- You can customize the script to suit your password requirements by modifying the character sets and length within the script itself.
+
+Feel free to use and adapt this script for your password generation needs. Adjust the length and character sets as necessary.
+
+
 
