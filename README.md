@@ -117,4 +117,25 @@ from student_marks_analyzer import main
 # Run the program
 main()
 ```
+# Project No.3 : QR Code Generation Project
+
+This Python project focuses on QR code generation using the `qrcode` library, providing both a simple QR code creation and a more advanced option with customizable features.
+### Author
+
+Muhammad Hassan Qureshi
+
+Code Link : [QR Code Generator](https://github.com/m-hassanqureshi/python-beginner-level-projects/blob/main/qr-code-generator.py)
+
+
+## Overview
+
+The project consists of two main parts:
+
+### 1. Simple QR Code Creation
+
+In this part of the project, a basic QR code is generated with the URL "https://github.com/m-hassanqureshi". The resulting image is saved as "simple.png".
+
+### 2. Advance QR Code Creation
+The project also explores advanced QR code generation with specific options. Here, the script configures the QR code to have a version of 1, use H error correction, set a box size of 10, and include a border of size 1. The data for the QR code remains the same as in the simple example ("https://github.com/m-hassanqureshi"). The resulting QR code is generated, and additional styling is applied, such as a green fill color and a white background. The final image is saved as "advanced_qr.png".
+
 
