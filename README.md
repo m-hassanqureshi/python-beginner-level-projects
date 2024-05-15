@@ -173,5 +173,19 @@ The generated password will be displayed in the console.
 
 Feel free to use and adapt this script for your password generation needs. Adjust the length and character sets as necessary.
 
+# Project No.4 : Employee Management System
+
+## Description
+This project is an Employee Management System implemented in Python using SQLite as the database backend. It allows users to manage departments, employees, and salary grades through a command-line interface.
+
+## Features
+- Add, search, delete, list, and edit departments
+- Add, search, delete, list, and edit employees
+- Order employees by employee number
+- Add, search, delete, list, and edit salary grades
+ ### Author : Hassan Qureshi
+ ---------
+
+  Code link : [Employ Management System](https://github.com/m-hassanqureshi/python-beginner-level-projects/blob/main/employ_management_system.py)
 
 
