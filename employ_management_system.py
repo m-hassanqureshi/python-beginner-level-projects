@@ -1,5 +1,5 @@
 import sqlite3 as sq
-con = sq.connect('employ_management_system.db')
+con = sq.connect('scott.db')
 cur = con.cursor()
 def add_dep():
     deptno = int(input("Enter a department number: "))
